@@ -1,5 +1,4 @@
 Welcome to a web scraping project for Reddit using its API on Python using PyCharm IDE, 
-built by me -
 
 To activate it correctly, you should prepare the 3 necessary keys,
 to get access to Reddit API according to its rules.
